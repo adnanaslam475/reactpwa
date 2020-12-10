@@ -1,0 +1,11 @@
+.ContactData {
+    /* align-items: center; */
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+    width: 80%;
+}
+
+.Input{
+    display: grid;
+}
